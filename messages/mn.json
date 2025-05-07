@@ -1,0 +1,240 @@
+{
+  "Controls": {
+    "sendemaillink": "Мэйлээр баталгаажуулах линк авах",
+
+    "AUTH": {
+      "email": "И-мэйл",
+      "enter_email": "И-мэйл хаягаа оруулна уу...",
+      "first_name": "Нэр",
+      "enter_first_name": "Өөрийн нэрийг оруулна уу...",
+      "last_name": "Овог",
+      "enter_last_name": "Өөрийн овгийг оруулна уу...",
+      "phone_number": "Утасны дугаар",
+      "enter_phone_number": "Утасны дугаараа оруулна уу...",
+      "password": "Нууц үг",
+      "enter_password": "Нууц үгээ оруулна уу...",
+      "password_confirmation": "Нууц үгийг баталгаажуулах",
+      "confirm_password": "Нууц үгээ баталгаажуулна уу...",
+      "continue": "Үргэлжлүүлэх",
+      "already_registered": "Бүртгэлтэй юу?",
+      "dontHaveAccount": "Бүртгэлгүй юу?",
+      "login": "Нэвтрэх",
+      "register": "Бүртгүүлэх",
+      "verify_email": "И-мэйлээ баталгаажуулна уу",
+      "resend_in": " секунд хүлээгээд дахин илгээх боломжтой",
+      "check_spam": "И-мэйл ирээгүй бол Spam хэсгээс эсвэл бусад фолдероос шалгаад үзнэ үү.",
+      "close": "Хаах",
+      "signed_up_success": "Амжилттай бүртгэгдлээ!",
+      "signed_in_success": "Амжилттай нэвтэрлээ!",
+      "error_occurred": "Алдаа гарлаа."
+    }
+  },
+  "HomePage": {
+    "title": "сайн уу",
+    "about": "пэйж",
+    "main": "Нүүр хуудас руу очих",
+    "home": "Нүүр"
+  },
+  "contactForm": {
+    "name": "Нэр",
+    "email": "Бук",
+    "message": "Message",
+    "submit": "Submit"
+  },
+  "validation": {
+    "invalid": "И-мэйл оруулна уу",
+    "required": "Нэр оруулна уу",
+    "min": "Дор хаяж 10 тэмдэгт оруулна уу",
+    "password_validation": "Password must contain at least one uppercase, lowercaster letter, number, and special symbol",
+    "password_notmatching": "Passwords are not matching"
+  },
+  "Metadata": {
+    "HomePage": "Монгол Дата Хаб"
+  },
+  "Navbar": {
+    "sign_in": "Нэвтрэх",
+    "home": "Нүүр"
+  },
+  "NotFoundPage": {
+    "title": "Уучлаарай, Таны хайсан хуудас олдсонгүй",
+    "description": "Таны хайж буй хуудсыг устгасан, нэрийг нь өөрчилсөн эсвэл түр ашиглах боломжгүй байна.",
+    "goback": "Буцах",
+    "gotohome": "Нүүр хуудас руу буцах"
+  },
+  "Error": {
+    "title": "Error",
+    "retry": "Refresh"
+  },
+  "ubxPriceTable": {
+    "open": "Нээлт",
+    "low": "Доод",
+    "high": "Дээд",
+    "close": "Хаалт",
+    "code": "Код",
+    "date": "Огноо",
+    "volume": "Тоо ширхэг",
+    "history": "Симболын үнийн түүхүүд",
+    "description": "Түүх болон граф",
+    "title": "UBX биржийн үнийн түүхүүд",
+    "symbol": "Симбол",
+    "pagination": {
+      "next": "Дараа",
+      "previous": "Өмнөх",
+      "page": "Хуудас",
+      "break": "/"
+    },
+    "actions": {
+      "copyCode": "Симболыг хуулах",
+      "actions": "Үйлдлүүд",
+      "viewDetails": "Дэлгэрэнгүй харах"
+    }
+  },
+
+  "mseBondTable": {
+    "symbol": "Симбол",
+    "bondName": "Өрийн хэрэгсэл гаргагч",
+    "bondNameEn": "Өрийн хэрэгсэл гаргагч",
+    "issuer": "Өрийн хэрэгсэл гаргагч",
+    "nominalValue": "Номинал утга",
+    "interest": "Хүү",
+    "tradedDate": "Арилжааны огноо",
+    "next": "Дараа",
+    "previous": "Өмнөх",
+    "page": "Хуудас",
+    "break": "/",
+    "actions": {
+      "actions": "Үйлдлүүд",
+      "copySymbol": "Симболийг хуулбарлах",
+      "viewMoreInfo": "Дэлгэрэнгүй мэдээлэл харах"
+    },
+    "pagination": {
+      "symbol": "Симболоор хайх..",
+      "bondname": "Бондын нэрээр хайх..",
+      "issuer": "Өрийн хэрэгсэл гаргагчаар хайх..",
+      "interest": "Хүүгийн хэмжээгээр хайх..",
+      "refundDate": "Буцаан төлөгдөх хугацаагаар хайх..",
+      "next": "Дараа",
+      "previous": "Өмнөх"
+    }
+  },
+  "actions": {
+    "copySymbol": "Симболийг хуулбарлах",
+    "viewMoreInfo": "Дэлгэрэнгүй мэдээлэл харах"
+  },
+  "dashboard": {
+    "menu": {
+      "name": "Нэр",
+      "name_en": "Англи нэр",
+      "price": "Үнэ",
+      "enterName": "Нэр оруулна уу",
+      "enterNameEn": "Англи нэр оруулна уу",
+      "enterPrice": "Үнийг оруулна уу",
+      "selectCategory": "Категорио сонгоно уу",
+      "addMenu": "Меню нэмэх",
+      "editMenu": "Меню засварлах",
+      "categoryId": "Төрөл"
+    },
+    "roomcategoryed": {
+      "images": "Зураг",
+      "roomNumber": "Өрөөний дугаар",
+      "enterRoomNumber": "Өрөөний дугаарыг оруулна уу",
+      "roomType": "Өрөөний төрөл",
+      "selectRoomType": "Өрөөний төрлийг сонгоно уу",
+      "description": "Тайлбар",
+      "enterDescription": "Тайлбарыг оруулна уу",
+      "description_en": "Тайлбар (Англи)",
+      "enterDescriptionEn": "Англи хэл дээр тайлбар оруулна уу",
+      "price": "Үнэ",
+      "enterPrice": "Үнээ оруулна уу",
+      "capacity": "Орох Хүний хамгийн дээд тоо",
+      "enterCapacity": "Хүний тоо оруулна уу",
+      "addRoomCategory": "Өрөөний ангилал нэмэх",
+      "editRoomCategory": "Өрөөний ангилал засах"
+    },
+    "galleryitem": {
+      "type": "Төрөл",
+      "selectGalleryType": "Галерейн төрлийг сонгоно уу",
+      "date": "Огноо",
+      "enterDate": "Огноог оруулна уу",
+      "description": "Тайлбар",
+      "enterDescription": "Тайлбарыг оруулна уу",
+      "description_en": "Англи тайлбар",
+      "enterDescriptionEn": "Англи тайлбарыг оруулна уу",
+      "image": "Зураг",
+      "addGalleryItem": "Галерейн шинэ зүйл нэмэх",
+      "editGalleryItem": "Галерейн зүйл засах"
+    },
+
+    "galleryType": {
+      "image": "Зураг",
+      "video": "Видео",
+      "audio": "Аудио",
+      "GENERAL": "Ерөнхий",
+      "ROOMS": "Өрөөнүүд",
+      "EVENTS": "Үйл явдлууд",
+      "RESTAURANT": "Рестораны",
+      "AMENITIES": "Тав тух",
+      "NATURE": "Байгаль",
+      "EXPERIENCES": "Туршлагууд",
+      "STAFF": "Ажилчид"
+    },
+    "addnew": "Шинээр нэмэх",
+    "create": "Бүртгэх",
+    "update": "Засварлах",
+    "delete": "Устгах",
+    "actions": "Үйлдлүүд",
+    "seemore": "Дэлгэрэнгүй",
+    "successful": "Амжилттай",
+    "unsuccessful": "Амжилтгүй",
+    "errorOccured": "Алдаа гарлаа",
+    "name_required": "Нэр оруулах шаардлагатай.",
+    "name_en_required": "Англи нэр оруулах шаардлагатай.",
+    "description_required": "Тайлбар оруулах шаардлагатай.",
+    "description_en_required": "Англи Тайлбар оруулах шаардлагатай.",
+    "alertModal": {
+      "title": "Та итгэлтэй байна уу?",
+      "description": "Энэ үйлдлийг буцааж болохгүй.",
+      "cancel": "Цуцлах",
+      "continue": "Үргэлжлүүлэх"
+    },
+
+    "roomcategory": {
+      "title": "Өрөөний Ангилал",
+      "title1": "Шинэ Өрөөний Ангилал Бүртгэх",
+      "title2": "Өрөөний Ангилал Засварлах",
+      "description": "Өрөөний Ангилал удирдах (бүртгэх, унших, засварлах, устгах)",
+      "roomCategoryNameMongolia": "Өрөөний Ангилал Нэр (Монгол)",
+      "roomCategoryNameEnglish": "Өрөөний Ангилал Нэр (Англи)",
+      "descriptionMongolia": "Тайлбар (Монгол)",
+      "descriptionEnglish": "Тайлбар (Англи)",
+      "enterRoomCategoryName": "Өрөөний Ангилал нэр оруулна уу",
+      "enterRoomCategoryDescription": "Өрөөний Ангилал Тайлбар оруулна уу",
+      "addRoomCategory": "Өрөөний Ангилал нэмэх",
+      "editRoomCategory": "Өрөөний Ангилал засварлах"
+    },
+    "validation": {},
+    "table": {
+      "createdAt": "Үүссэн огноо",
+      "description": "Тайлбар",
+      "updatedAt": "Шинэчлэгдсэн огноо",
+      "name": "Нэр",
+      "pagination": {
+        "symbol": "Бэлгэ тэмдгээр хайх...",
+        "bondname": "Тогтоолын нэрээр хайх...",
+        "issuer": "Эзэмшигчээр хайх...",
+        "interest": "Хүүгийн хувиар хайх...",
+        "refundDate": "Буцаах огноогоор хайх...",
+        "next": "Дараахи",
+        "previous": "Өмнөх",
+        "page": "Хуудас",
+        "of": "/",
+        "rowsperpage": "Хуудас бүрт мөр",
+        "showing": "Хуудас",
+        "entries": "бичлэгүүд",
+        "to": "-",
+        "noentriesfound": "Бичлэг олдсонгүй",
+        "nopages": "Хуудас байхгүй"
+      }
+    }
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "Controls": {
+    "sendemaillink": "Get verification link via email",
+
+    "AUTH": {
+      "email": "Email",
+      "enter_email": "Please enter your email address...",
+      "first_name": "First Name",
+      "enter_first_name": "Please enter your first name...",
+      "last_name": "Last Name",
+      "enter_last_name": "Please enter your last name...",
+      "phone_number": "Phone Number",
+      "enter_phone_number": "Please enter your phone number...",
+      "password": "Password",
+      "enter_password": "Please enter your password...",
+      "password_confirmation": "Confirm Password",
+      "confirm_password": "Please confirm your password...",
+      "continue": "Continue",
+      "already_registered": "Already registered?",
+      "dontHaveAccount": "Don't have an account?",
+      "login": "Login",
+      "register": "Register",
+      "verify_email": "Please verify your email",
+      "resend_in": " seconds remaining before you can resend",
+      "check_spam": "If you didn't receive the email, please check your Spam or other folders.",
+      "close": "Close",
+      "signed_up_success": "Successfully registered!",
+      "signed_in_success": "Successfully logged in!",
+      "error_occurred": "An error occurred."
+    }
+  },
+  "HomePage": {
+    "title": "Hello world!",
+    "about": "Go to the about page",
+    "main": "Go to main page",
+    "home": "Home"
+  },
+  "contactForm": {
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Submit"
+  },
+  "validation": {
+    "invalid": "Email invalid",
+    "required": "Name required",
+    "min": "Message required to be at least 10 characters",
+    "password_validation": "Password must contain at least one uppercase, lowercaster letter, number, and special symbol",
+    "password_notmatching": "Passwords are not matching"
+  },
+  "Metadata": {
+    "HomePage": "Монгол Дата Хаб"
+  },
+  "ubxPriceTable": {
+    "open": "Open",
+    "low": "Low",
+    "high": "High",
+    "close": "Close",
+    "code": "Code",
+    "date": "Date",
+    "volume": "Volume",
+    "history": "Symbol Price History",
+    "description": "Price history and candlestick chart",
+    "title": "UBX Price History",
+
+    "symbol": "Symbol",
+    "pagination": {
+      "next": "Next",
+      "previous": "Previous",
+      "page": "Page",
+      "break": "of"
+    },
+    "actions": {
+      "copyCode": "Copy symbol to clipboard",
+      "actions": "Actions",
+      "viewDetails": "View"
+    }
+  },
+  "Navbar": {
+    "sign_in": "Sign In",
+    "home": "Home"
+  },
+  "NotFoundPage": {
+    "title": "Something's missing",
+    "description": "Sorry, the page you are looking for doesn't exist or has been moved",
+    "goback": "Go Back",
+    "gotohome": "Back to Home"
+  },
+  "Error": {
+    "title": "Error",
+    "retry": "Refresh"
+  },
+  "mseBondTable": {
+    "symbol": "Symbol",
+    "bondName": "Bond Name (MN)",
+    "bondNameEn": "Bond Name (EN)",
+    "issuer": "Issuer",
+    "nominalValue": "Nominal Value",
+    "interest": "Interest",
+    "tradedDate": "Traded Date",
+    "next": "Next",
+    "previous": "Previous",
+    "page": "Page",
+    "break": "of",
+    "actions": {
+      "actions": "Үйлдлүүд",
+      "copySymbol": "Симболийг хуулбарлах",
+      "viewMoreInfo": "Дэлгэрэнгүй мэдээлэл харах"
+    },
+
+    "pagination": {
+      "symbol": "Search by symbol...",
+      "bondname": "Search by bond name...",
+      "issuer": "Search by issuer...",
+      "interest": "Search by interest rate...",
+      "refundDate": "Search by refund date...",
+      "next": "Next",
+      "previous": "Previous"
+    }
+  },
+  "actions": {
+    "copySymbol": "Copy Symbol",
+    "viewMoreInfo": "View More Info",
+    "next": "Next",
+    "previous": "Previous"
+  },
+  "dashboard": {
+    "menu": {
+      "name": "Name",
+      "name_en": "English Name",
+      "price": "Price",
+      "enterName": "Enter Name",
+      "enterNameEn": "Enter English Name",
+      "enterPrice": "Enter Price",
+      "selectCategory": "Select Category",
+      "addMenu": "Add Menu",
+      "editMenu": "Edit Menu",
+      "categoryId": "Type"
+    },
+    "galleryitem": {
+      "type": "Type",
+      "selectGalleryType": "Select Gallery Type",
+      "date": "Date",
+      "enterDate": "Enter Date",
+      "description": "Description",
+      "enterDescription": "Enter Description",
+      "description_en": "English Description",
+      "enterDescriptionEn": "Enter English Description",
+      "image": "Image",
+      "addGalleryItem": "Add Gallery Item",
+      "editGalleryItem": "Edit Gallery Item"
+    },
+
+    "roomcategory": {
+      "image": "Image",
+      "video": "Video",
+      "audio": "Audio",
+      "images": "Images",
+      "roomNumber": "Room Number",
+      "enterRoomNumber": "Enter Room Number",
+      "roomType": "Room Type",
+      "selectRoomType": "Select Room Type",
+      "description": "Description",
+      "enterDescription": "Enter Description",
+      "description_en": "Description (English)",
+      "enterDescriptionEn": "Enter Description in English",
+      "price": "Price",
+      "enterPrice": "Enter Price",
+      "capacity": "Capacity",
+      "enterCapacity": "Enter Capacity",
+      "addRoomCategory": "Add Room Category",
+      "editRoomCategory": "Edit Room Category"
+    },
+    "galleryType": {
+      "GENERAL": "General",
+      "ROOMS": "Rooms",
+      "EVENTS": "Events",
+      "RESTAURANT": "Restaurant",
+      "AMENITIES": "Amenities",
+      "NATURE": "Nature",
+      "EXPERIENCES": "Experiences",
+      "STAFF": "Staff"
+    },
+    "addnew": "Add New",
+    "create": "Create",
+    "update": "Update",
+    "delete": "Delete",
+    "actions": "Actions",
+    "seemore": "See more",
+    "successful": "Амжилттай",
+    "unsuccessful": "Амжилтгүй",
+    "errorOccured": "Алдаа гарлаа",
+    "name_required": "Name is required.",
+    "name_en_required": "English name is required.",
+    "description_required": "Description is required.",
+    "description_en_required": "English description is required.",
+    "alertModal": {
+      "title": "Are you sure?",
+      "description": "This action cannot be undone.",
+      "cancel": "Cancel",
+      "continue": "Continue"
+    },
+    "roomcategoryed": {
+      "title": "Room Categories",
+      "title1": "Create New Room Category",
+      "title2": "Edit Room Category",
+      "description": "Manage Room Categories (create, read, update, remove)",
+      "roomCategoryNameMongolia": "Room Category Name (Mongolia)",
+      "roomCategoryNameEnglish": "Room Category Name (English)",
+      "descriptionMongolia": "Description (Mongolia)",
+      "descriptionEnglish": "Description (English)",
+      "enterRoomCategoryName": "Enter Room Category name",
+      "enterRoomCategoryDescription": "Enter Room Category description",
+      "addRoomCategory": "Add Room Category",
+      "editRoomCategory": "Edit Room Category"
+    },
+    "validation": {},
+    "table": {
+      "createdAt": "Created At",
+
+      "description": "Description",
+      "updatedAt": "Updated At",
+      "name": "Name",
+      "pagination": {
+        "symbol": "Search by symbol...",
+        "bondname": "Search by bond name...",
+        "issuer": "Search by issuer...",
+        "interest": "Search by interest rate...",
+        "refundDate": "Search by refund date...",
+        "next": "Next",
+        "previous": "Previous",
+        "page": "Page",
+        "of": "of",
+        "rowsperpage": "Rows per page",
+        "showing": "Showing",
+        "entries": "entries",
+        "to": "to",
+        "noentriesfound": "No Entries Found",
+        "nopages": "No Pages"
+      }
+    }
+  }
+}

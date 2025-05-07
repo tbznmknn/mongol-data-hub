@@ -1,0 +1,101 @@
+[
+    {
+      "id": 1,
+      "name": "н.Раднаабазар",
+      "position": "Position here",
+      "phone": "+976-99999999",
+      "email": "gua@example.com",
+      "greetings": "Maybe greetings are here. Hi there!",
+      "education": [
+        "1998-2000: business school",
+        "1991-1992: computer school",
+        "1984-1989: bumba school"
+      ],
+      "experience": [
+        "2001 оноос: Senior Developer",
+        "2010 оноос: Full-End Developer",
+        "1993-2001: Back-End Developer",
+        "1989-1992: Front-End Developer"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLfnf14m-VWnmWrX4vabyw8Q2JPuEeJO8SCQ&s"
+    },
+    {
+        "id": 2,
+        "name": "х.Сэргэлэн",
+        "position": "Position here",
+        "phone": "+976-99999999",
+        "email": "gua@example.com",
+        "greetings": "Maybe greetings are here. Hi there!",
+        "education": [
+          "1998-2000: business school",
+          "1991-1992: computer school",
+          "1984-1989: bumba school"
+        ],
+        "experience": [
+          "2001 оноос: Senior Developer",
+          "2010 оноос: Full-End Developer",
+          "1993-2001: Back-End Developer",
+          "1989-1992: Front-End Developer"
+        ],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIuYsSHZGL7PHi0aVOC-VcZn-Ch3Z06zJ_kQ&s"
+      },
+      {
+        "id": 3,
+        "name": "Б.Лхагвасүрэн",
+        "position": "Position here",
+        "phone": "+976-99999999",
+        "email": "gua@example.com",
+        "greetings": "Maybe greetings are here. Hi there!",
+        "education": [
+          "1998-2000: business school",
+          "1991-1992: computer school",
+          "1984-1989: bumba school"
+        ],
+        "experience": [
+          "2001 оноос: Senior Developer",
+          "2010 оноос: Full-End Developer",
+          "1993-2001: Back-End Developer",
+          "1989-1992: Front-End Developer"
+        ],
+        "image": "https://hips.hearstapps.com/hmg-prod/images/rachel-green-lipstick-friends-1503504644.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Б.Лхагвасүрэн",
+        "position": "Position here",
+        "phone": "+976-99999999",
+        "email": "gua@example.com",
+        "greetings": "Maybe greetings are here. Hi there!",
+        "education": [
+          "1998-2000: business school",
+          "1991-1992: computer school",
+          "1984-1989: bumba school"
+        ],
+        "experience": [
+          "2001 оноос: Senior Developer",
+          "2010 оноос: Full-End Developer",
+          "1993-2001: Back-End Developer",
+          "1989-1992: Front-End Developer"
+        ],
+        "image": "https://hips.hearstapps.com/hmg-prod/images/rachel-green-lipstick-friends-1503504644.jpg"
+      },{
+        "id": 5,
+        "name": "Б.Лхагвасүрэн",
+        "position": "Position here",
+        "phone": "+976-99999999",
+        "email": "gua@example.com",
+        "greetings": "Maybe greetings are here. Hi there!",
+        "education": [
+          "1998-2000: business school",
+          "1991-1992: computer school",
+          "1984-1989: bumba school"
+        ],
+        "experience": [
+          "2001 оноос: Senior Developer",
+          "2010 оноос: Full-End Developer",
+          "1993-2001: Back-End Developer",
+          "1989-1992: Front-End Developer"
+        ],
+        "image": "https://hips.hearstapps.com/hmg-prod/images/rachel-green-lipstick-friends-1503504644.jpg"
+      }
+  ]
