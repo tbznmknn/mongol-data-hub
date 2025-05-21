@@ -86,6 +86,7 @@ export default async function ProductListingPage({}: ProductListingPage) {
   ).catch((err) => notFound());
   const jsonData = await response.json();
   const data: Post[] = jsonData.data;
+
   const pagination: PaginationData = jsonData.pagination;
   return (
     <ProductTable columns={columns} data={data} totalItems={pagination.total} />
